@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Mohammed Muhsin</h1>
 <h3 align="center">A Passionate WebGL & MEAN-Stack Developer</h3>
 
-- 🔭 I’m currently working as a **WebGL Developer**  
-- 🌱 I’m continuously learning advanced **3D development, AR, and modern front-end frameworks**  
+- 🔭 Currently working as a **WebGL Developer**  
+- 🌱 Continuously learning advanced **3D development, AR, and modern front-end frameworks**  
 - 💡 Ask me about **WebGL, Three.js, R3F, MEAN stack (MongoDB, Express, Angular, Node.js)**  
 - 📫 How to reach me: muhsinmfz@gmail.com | 8137918126  
 
